@@ -1,7 +1,7 @@
 aksi :
 - tiap buat harus buat konten masukkan ke dalam github
-
-belajar dari semuanya :
+b
+Belajar front end :
 - GitHub
 - HTML
 - CSS dasar
@@ -18,3 +18,6 @@ belajar dari semuanya :
 - php dasar
 - php lanjutan
 - laravel
+
+Belajar dev end
+masih wacana
