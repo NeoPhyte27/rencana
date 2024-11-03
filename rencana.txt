@@ -1,0 +1,20 @@
+aksi :
+- tiap buat harus buat konten masukkan ke dalam github
+
+belajar dari semuanya :
+- GitHub
+- HTML
+- CSS dasar
+- CSS lanjutan
+- membuat website 1
+- css3
+- HTML5
+- membuat website 2
+- bootstrap
+- javascript dasar
+- javascript dom
+- javascript lanjutan
+- membuat website 3
+- php dasar
+- php lanjutan
+- laravel
