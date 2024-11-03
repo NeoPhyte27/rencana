@@ -9,6 +9,7 @@ RENCANA CONTENT BARU
   * Framework Javascript
     ^ React
     ^ Vue
+    ^ Angular
 - PHP Frameworks
   ^ Laravel
 - Python

@@ -15,9 +15,8 @@ Belajar web front end :
 - javascript dom
 - javascript lanjutan
 - membuat website 3
+
+Belajar web back end
 - php dasar
 - php lanjutan
 - laravel
-
-Belajar web back end
-masih wacana
