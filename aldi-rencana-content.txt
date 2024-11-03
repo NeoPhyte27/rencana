@@ -3,10 +3,12 @@ RENCANA CONTENT BARU
 - masukkan semuanya kedalam GitHub
 - harus belajar dari sekarangg jangan malass
 - klw enggak nyaman sama tempat duduk cari tempat lain
-- Javasript
+- Struktur data dasar
+- Javascript
   * ES6
-  * Framework Javasript
-    ^ Angular
+  * Framework Javascript
     ^ React
-- PHP Framework
-  * Laravel
+    ^ Vue
+- PHP Frameworks
+  ^ Laravel
+- Python
