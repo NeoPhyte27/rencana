@@ -1,7 +1,7 @@
 aksi :
 - tiap buat harus buat konten masukkan ke dalam github
 b
-Belajar front end :
+Belajar web front end :
 - GitHub
 - HTML
 - CSS dasar
@@ -19,5 +19,5 @@ Belajar front end :
 - php lanjutan
 - laravel
 
-Belajar dev end
+Belajar web back end
 masih wacana
