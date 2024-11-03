@@ -1,0 +1,2 @@
+# rencana
+belajar dari sekarang
